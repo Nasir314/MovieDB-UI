@@ -1,0 +1,43 @@
+.custom-card {
+    min-height: 200px;
+    /* border: 1px solid; */
+    margin: 5px 20px;
+    background: #ececea;
+    box-shadow: none;
+}
+
+.custom-card-row-1 {
+    margin: 10px;
+    height:100%;
+}
+
+.cert-runtime-genre {
+    font-size: 14px;
+    color: #666666;
+}
+
+.a-movie-title {
+    color: #136CB2;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.metascore {
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    padding: 1px 4px;
+}
+.metascore.mixed {
+    background-color: #ffcc33;
+}
+.outline{
+    margin: 5px 0px; 
+}
+
+.btn2_text {
+    display: inline-block;
+    margin: 0 .4em;
+    vertical-align: middle;
+    font-weight: normal;
+}
