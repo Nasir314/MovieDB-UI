@@ -33,7 +33,7 @@ class ViewMore extends React.Component {
   }
 
   fnGetMovies = () => {
-    axios.get('https://api.themoviedb.org/3/movie/upcoming?api_key=d0e017a26eb15e7a7c0bd8749da5fdde&language=en-US&page=' + this.state.currentPage)
+    axios.get('https://api.themoviedb.org/3/movie/upcoming?api_key=key&language=en-US&page=' + this.state.currentPage)
       .then(res => {
         if (res.status === 200) {
           let tempData = []
