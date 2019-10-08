@@ -48,7 +48,7 @@ class Home extends React.Component {
 
 
   fnGetRecentlyReleased = () => {
-    axios.get('https://api.themoviedb.org/3/movie/now_playing?api_key=d0e017a26eb15e7a7c0bd8749da5fdde&language=en-IN&sort_by=release_date.desc')
+    axios.get('https://api.themoviedb.org/3/movie/now_playing?api_key=key&language=en-IN&sort_by=release_date.desc')
       .then(res => {
         if (res.status === 200) {
           let tempData = []
