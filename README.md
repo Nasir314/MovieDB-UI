@@ -4,7 +4,7 @@ Using - Reactjs, Javascript, MDB, React.js Boilerplate, HTML, SCSS
 I have used React-Boilerplate, MDB(Material Design for Bootstrap), The Movie Database API, localStorage for saving data.
 
 # How to start the app?
-Firstly unzip the zip file and then go to inside the folder ‘innovaccer_Assignment’ using cd innovaccer_Assignment/
+Firstly unzip the zip file and then go to inside the folder ‘MovieDB-UI’ using cd MovieDB-UI/
 Install the node modules by -  npm install
 Run the app using - npm start
 Open your browser and type http://localhost:3000/ and press enter.
