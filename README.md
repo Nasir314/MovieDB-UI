@@ -1,4 +1,5 @@
-# Movie Database UI Screening using - Reactjs, Javascript, MDB, HTML, SCSS 
+# Movie Database UI Screening
+using - Reactjs, Javascript, MDB, React.js Boilerplate, HTML, SCSS
 
 # What I have used in this assignment?
 I have used React-Boilerplate, MDB(Material Design for Bootstrap), The Movie Database API, localStorage for saving data.
