@@ -7,7 +7,7 @@ Description: User authentication
 import React, { Fragment } from 'react';
 import { Helmet } from 'react-helmet';
 import { MDBRow, MDBCol } from 'mdbreact';
-import OnSubmitButton from '../../components/Buttons/onSubmitButton';
+import OnSubmitButton from '../../components/Buttons';
 import H2 from '../../components/H2';
 import InputMdb from '../../components/InputTypes/TextInput';
 import './style.css';

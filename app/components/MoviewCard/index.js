@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import { NA } from '../../utils/constants';
 import { MDBCard, MDBRow, MDBCol } from 'mdbreact';
-import OnClickButton from '../../components/Buttons/onClickButton';
+import OnClickButton from '../../components/Buttons';
 import CustomSnackbar from '../../components/snackBar';
 import './style.css';
 

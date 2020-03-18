@@ -14,7 +14,7 @@ import OnLoadingAndFetching from '../../components/Loders/LodersAndPleasewait';
 import {
   BackgrounColorCard
 } from '../../utils/constants';
-import OnClickButton from '../../components/Buttons/OnClickButton';
+import OnClickButton from '../../components/Buttons';
 import InfiniteScroll from "react-infinite-scroll-component";
 
 class ViewMore extends React.Component {
