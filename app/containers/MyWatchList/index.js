@@ -1,8 +1,8 @@
-/**
- *
- * MyWatchList
- *
- */
+/**********************
+Name - MyWatchList
+Author - Nasir Ansari
+Description: Manage my watch list
+***********************/
 
 import React from 'react';
 import { Helmet } from 'react-helmet';

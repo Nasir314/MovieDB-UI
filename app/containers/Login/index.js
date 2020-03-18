@@ -1,8 +1,8 @@
-/**
- *
- * Login
- *
- */
+/**********************
+Name - Login
+Author - Nasir Ansari
+Description: User authentication 
+***********************/
 
 import React, { Fragment } from 'react';
 import { Helmet } from 'react-helmet';

@@ -1,8 +1,8 @@
-/**
- *
- * Header
- *
- */
+/**********************
+Name - Header
+Author - Nasir Ansari
+Description: This is header component
+***********************/
 
 import React from 'react';
 import './style.css';
@@ -50,9 +50,6 @@ class Header extends React.Component {
               <MDBNavItem className='navItem-custom1'>
                 <Link className='a-custom1' to="/my-watch-list"> My Watch List </Link>
               </MDBNavItem>
-              {/* <MDBNavItem className='navItem-custom1'>
-                <Link className='a-custom1' to="/view-more"> View More </Link>
-              </MDBNavItem> */}
             </MDBNavbarNav>
             <MDBNavbarNav right>
               <MDBNavItem>

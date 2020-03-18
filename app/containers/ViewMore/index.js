@@ -1,8 +1,8 @@
-/**
- *
- * ViewMore
- *
- */
+/**********************
+Name - Viewmore
+Author - Nasir Ansari
+Description: Manage viewmore and infinite scrolling
+***********************/
 
 import React from 'react';
 import { Helmet } from 'react-helmet';

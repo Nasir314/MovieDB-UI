@@ -1,8 +1,8 @@
-/**
- *
- * Home
- *
- */
+/**********************
+Name - Home / Dashboard
+Author - Nasir Ansari
+Description: This is dashboard component
+***********************/
 
 import React, { Fragment } from 'react';
 import { Helmet } from 'react-helmet';

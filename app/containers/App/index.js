@@ -1,11 +1,8 @@
-/**
- *
- * App.js
- *
- * This component is the skeleton around the actual pages, and should only
- * contain code that should be seen on all pages. (e.g. navigation bar)
- *
- */
+/**********************
+Name - App.js
+Author - Nasir Ansari
+Description: This component manage the routing of all application.
+***********************/
 
 import React from 'react';
 import { Switch, Route, Redirect, BrowserRouter } from 'react-router-dom';
